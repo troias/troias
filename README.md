@@ -30,11 +30,17 @@ When it comes to image manipulation, I rely on **GIMP** ![gimp](https://github.c
 ## Current Project-1: Ecommerce Store
 I'm currently working on an ecommerce store using Next.js, TailwindUI ecommerce components, and the Shopify API. This project allows me to leverage the power of Next.js for server-side rendering and efficient routing. I utilize TailwindUI ecommerce components to create a sleek and responsive user interface. Integrating with the Shopify API enables seamless product management, cart functionality, and secure payment processing. I'm excited about building a fully functional and user-friendly ecommerce solution.
 
+https://github.com/troias/TailwindECom
+
 ## Current Project-2: Shopify Agency with Shopify Hydrogen
 I'm currently working on a Shopify agency, specializing in creating customized online stores for clients. Our agency utilizes Shopify Hydrogen to build stunning and high-performance ecommerce websites. Shopify Hydrogen allows us to leverage the power of Shopify's infrastructure while providing flexibility and customization options. It enables us to create unique and tailored experiences for our clients, meeting their specific business requirements.
 
+https://github.com/troias/NextJs-Digital-Agency-Frontend
+
 ## Current Project-3: Portfolio and Blog
 In addition to client work, I'm also working on developing my portfolio website, where I showcase my previous projects and share insightful articles on front-end development. This portfolio serves as a platform to demonstrate my skills and expertise to potential clients and employers. Additionally, by maintaining a blog, I aim to contribute to the developer community by sharing my knowledge and experiences with others.
+
+https://github.com/troias/nextjs-portfolio
 
 
 ## Career Focus
