@@ -5,7 +5,7 @@ Hey there! I'm a front-end developer who primarily codes using **Visual Studio C
 
 ## CV/Resume
 
-[https://nextjs-portfolio-tawny-mu.vercel.app](https://nextjs-portfolio-tawny-mu.vercel.app/)/resume
+[https://nextjs-portfolio-tawny-mu.vercel.app](https://nextjs-portfolio-tawny-mu.vercel.app/resume)
 
 ## Portfolio-Site
 
