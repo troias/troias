@@ -1,7 +1,8 @@
 # My Development Preferences
 
 ## Overview
-Hey there! I'm a front-end developer who primarily codes using Visual Studio Code (VS Code) 💻. My favorite plugin for VS Code is GitHub Copilot ![github-copilot](https://github.com/troias/troias/assets/26407409/69556ed4-69e2-49a8-8b92-37c322d88627)
+Hey there! I'm a front-end developer who primarily codes using Visual Studio Code (VS Code) ![vscode](https://github.com/troias/troias/assets/26407409/a2a30d7f-fcd7-4868-a52a-68e02970e601)
+. My favorite plugin for VS Code is GitHub Copilot ![github-copilot](https://github.com/troias/troias/assets/26407409/69556ed4-69e2-49a8-8b92-37c322d88627)
 , which greatly enhances my coding experience.
 
 ## Portfolio-Site
