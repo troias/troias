@@ -34,7 +34,8 @@ I'm currently working on an ecommerce store using Next.js, TailwindUI ecommerce 
 https://github.com/troias/TailwindECom
 
 ## Current Project-2: Shopify Agency with Shopify Hydrogen
-I'm currently working on a Shopify agency, specializing in creating customized online stores for clients. Our agency utilizes Shopify Hydrogen to build stunning and high-performance ecommerce websites. Shopify Hydrogen allows us to leverage the power of Shopify's infrastructure while providing flexibility and customization options. It enables us to create unique and tailored experiences for our clients, meeting their specific business requirements.
+I'm currently working on a Shopify agency, specializing in creating customized online stores for clients. Our agency utilizes Shopify Hydrogen ![images](https://github.com/troias/troias/assets/26407409/d9bcd048-cfdb-4139-bfb9-5612087ab310)
+ to build stunning and high-performance ecommerce websites. Shopify Hydrogen allows us to leverage the power of Shopify's infrastructure while providing flexibility and customization options. It enables us to create unique and tailored experiences for our clients, meeting their specific business requirements.
 
 https://github.com/troias/NextJs-Digital-Agency-Frontend
 
