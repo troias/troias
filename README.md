@@ -12,12 +12,12 @@ https://nextjs-portfolio-tawny-mu.vercel.app/resume
 https://nextjs-portfolio-tawny-mu.vercel.app/
 
 ## Tech Stack
-When it comes to front-end development, I predominantly use TypeScript (TS)![icons8-typescript-20](https://github.com/troias/troias/assets/26407409/98add89e-29e5-4fb9-b9d6-184332678ce7)
+When it comes to front-end development, I predominantly use **TypeScript (TS)**![icons8-typescript-20](https://github.com/troias/troias/assets/26407409/98add89e-29e5-4fb9-b9d6-184332678ce7)
    and TSX![tsx (1)](https://github.com/troias/troias/assets/26407409/89146f7b-808c-4e0f-bf3e-153fe459bbbf)
  to code front ends in React![react](https://github.com/troias/troias/assets/26407409/c01a52af-3d0a-420d-b444-37bdfed29dc4). TypeScript's static typing brings additional safety and efficiency to my development process. React, being a powerful library, allows me to build dynamic user interfaces easily.
 
 ## Favorite Framework
-Among the frameworks available for React development, my personal favorite is Next.js![nextjs-icon](https://github.com/troias/troias/assets/26407409/07e9e518-88ef-4f7f-945d-a53c79e11b54)
+Among the frameworks available for React development, my personal favorite is **Next.js**![nextjs-icon](https://github.com/troias/troias/assets/26407409/07e9e518-88ef-4f7f-945d-a53c79e11b54)
 . It provides server-side rendering, automatic code splitting, and simple routing, enabling me to build fast and scalable applications. Next.js has become my go-to framework due to its excellent developer experience and optimization features.
 
 ## Styling
