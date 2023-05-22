@@ -5,11 +5,11 @@ Hey there! I'm a front-end developer who primarily codes using **Visual Studio C
 
 ## CV/Resume
 
-![](https://nextjs-portfolio-troias.vercel.app/)
+![(https://nextjs-portfolio-troias.vercel.app/)
 
 ## Portfolio-Site
 
-![](https://nextjs-portfolio-troias.vercel.app/)
+![(https://nextjs-portfolio-troias.vercel.app/)]
 
 ## Tech Stack
 When it comes to front-end development, I predominantly use **TypeScript (TS)** ![icons8-typescript-20](https://github.com/troias/troias/assets/26407409/98add89e-29e5-4fb9-b9d6-184332678ce7)
