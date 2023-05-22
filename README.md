@@ -1,4 +1,4 @@
-# My Development Preferences
+# /About me
 
 ## Overview
 Hey there! I'm a front-end developer who primarily codes using Visual Studio Code (VS Code) ![vscode](https://github.com/troias/troias/assets/26407409/a2a30d7f-fcd7-4868-a52a-68e02970e601)
