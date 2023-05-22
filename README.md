@@ -9,7 +9,8 @@ https://nextjs-portfolio-tawny-mu.vercel.app/
 
 
 ## Tech Stack
-When it comes to front-end development, I predominantly use TypeScript (TS) ![icons8-typescript](https://github.com/troias/troias/assets/26407409/149ecfd2-c336-4f50-85d8-3fc472491405)  and TSX 🌟 to code front ends in React ⚛️. TypeScript's static typing brings additional safety and efficiency to my development process. React, being a powerful library, allows me to build dynamic user interfaces easily.
+When it comes to front-end development, I predominantly use TypeScript (TS)![icons8-typescript-20](https://github.com/troias/troias/assets/26407409/98add89e-29e5-4fb9-b9d6-184332678ce7)
+   and TSX 🌟 to code front ends in React ⚛️. TypeScript's static typing brings additional safety and efficiency to my development process. React, being a powerful library, allows me to build dynamic user interfaces easily.
 
 ## Styling
 For styling purposes, I mainly use **TailwindCSS** 🎨 at the moment. TailwindCSS offers a utility-first approach, which allows me to rapidly build and customize responsive designs. Its extensive set of pre-built components and responsive classes significantly speeds up my development process and enhances maintainability.
