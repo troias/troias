@@ -5,6 +5,10 @@ Hey there! I'm a front-end developer who primarily codes using Visual Studio Cod
 . My favorite plugin for VS Code is GitHub Copilot ![github-copilot](https://github.com/troias/troias/assets/26407409/69556ed4-69e2-49a8-8b92-37c322d88627)
 , which greatly enhances my coding experience.
 
+## CV/Resume
+
+https://nextjs-portfolio-tawny-mu.vercel.app/resume
+
 ## Portfolio-Site
 
 https://nextjs-portfolio-tawny-mu.vercel.app/
