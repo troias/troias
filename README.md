@@ -28,7 +28,8 @@ When it comes to image manipulation, I rely on **GIMP** ![gimp](https://github.c
 . Figma's collaborative features and intuitive interface make it an ideal choice for design projects.
 
 ## Current Project-1: Ecommerce Store
-I'm currently working on an ecommerce store using Next.js, TailwindUI ecommerce components, and the Shopify API. This project allows me to leverage the power of Next.js for server-side rendering and efficient routing. I utilize TailwindUI ecommerce components to create a sleek and responsive user interface. Integrating with the Shopify API enables seamless product management, cart functionality, and secure payment processing. I'm excited about building a fully functional and user-friendly ecommerce solution.
+I'm currently working on an ecommerce store using Next.js, TailwindUI ecommerce components, and the Shopify API ![shopify](https://github.com/troias/troias/assets/26407409/01e9f6b7-7578-4819-bc7c-906ad8fcebeb)
+. This project allows me to leverage the power of Next.js for server-side rendering and efficient routing. I utilize TailwindUI ecommerce components to create a sleek and responsive user interface. Integrating with the Shopify API enables seamless product management, cart functionality, and secure payment processing. I'm excited about building a fully functional and user-friendly ecommerce solution.
 
 https://github.com/troias/TailwindECom
 
