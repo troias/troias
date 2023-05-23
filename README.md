@@ -21,7 +21,7 @@ Among the frameworks available for React development, my personal favorite is **
 . It provides server-side rendering, automatic code splitting, and simple routing, enabling me to build fast and scalable applications. Next.js has become my go-to framework due to its excellent developer experience and optimization features.
 
 ## Styling
-For styling purposes, I mainly use **TailwindCSS** [tailwindcss (1)](https://github.com/troias/troias/assets/26407409/05096712-459a-4ba9-a3c4-36168c707b5f)
+For styling purposes, I mainly use **TailwindCSS** ![tailwindcss (1)](https://github.com/troias/troias/assets/26407409/05096712-459a-4ba9-a3c4-36168c707b5f)
   at the moment. TailwindCSS offers a utility-first approach, which allows me to rapidly build and customize responsive designs. Its extensive set of pre-built components and responsive classes significantly speeds up my development process and enhances maintainability.
 
 ## Design
